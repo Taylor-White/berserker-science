@@ -122,12 +122,12 @@
 448| While running  | 20 |low| -22 |LNC -10|       |26|22|6|59 |39 | 0 |TJ[6-27] TC[27-47] GRND |
 
 [Throws]
-449| A+G   | 18 |high| -7  |STN -7 |       |50 |4 |2|54 |36 | 0 | |
-450| 4A+G  | 18 |high| -7  |STN -7 |       |35 |4 |2|54 |36 | 0 | |
-449| Left side throw   | 18 |high| -7  |STN -7 |       |65 |4 |2|54 |36 | 0 | |
-449| Right side throw   | 18 |high| -7  |STN -7 |       |55 |4 |2|54 |36 | 0 | |
-449| Back throw   | 18 |high| -7  |STN -7 |       |65 |4 |2|54 |36 | 0 | |
-451| 00A+G | 18 |throw| -7  |STN -7 |       |0 |4 |2|54 |36 | 0 | |
+449| A+G   | 18 |high| -7  |STN -7 |       |50 |4 |2|54 |36 | 0 | | TH
+450| 4A+G  | 18 |high| -7  |STN -7 |       |35 |4 |2|54 |36 | 0 | | TH
+449| Left side throw   | 18 |high| -7  |STN -7 |       |65 |4 |2|54 |36 | 0 | | TH
+449| Right side throw   | 18 |high| -7  |STN -7 |       |55 |4 |2|54 |36 | 0 | | TH
+449| Back throw   | 18 |high| -7  |STN -7 |       |65 |4 |2|54 |36 | 0 | | TH
+451| 33_66_99A+G | 18 |high| -7  |STN -7 |       |0 |4 |2|54 |36 | 0 | | TH
 
 [Special]
 510| 236G  | 0  |  | +0  |   +0  |       |  |4 | |55 |-1 | 0 | |
