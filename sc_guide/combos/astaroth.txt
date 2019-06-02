@@ -1,2 +1,89 @@
-[A]
+#A
 AA | 41 | NCC
+
+#6A
+6A 3K | 42 | NCC | (wiffs against some characters if they are in attack animation)
+6A 2A+G | 66 | NCC | (breakable grab)
+6A 1A+G | 76 | NCC | (breakable grab)
+
+#3A
+3A 4B | 44 | NCC
+3A 3A+G | 38 | NCC | (requires opponent facing forward)
+
+#1[A]
+1[A]A | 59 | NC
+1[A]B | 64 | NC
+
+#4AA
+4AA 3K | 34 | NC | (wiffs against some characters if they are in attack animation)
+4AA 1A+G | 69 | NC
+4AA 2A+G | 59 | NC
+
+#4A[A]
+4A[A] 3K | 44 | NC | (wiffs against some characters if they are in attack animation)
+4A[A] 1A+G | 66 | NC | (breakable grab)
+4A[A] 2A+G | 69 | NC | (breakable grab)
+
+#B
+B6B | 39 | NC
+BB6 | 36 | NC
+BB | 44 | NCC
+B6B 3K | 54 | NCC | (wiffs against some characters if they are in attack animation)
+B6B 2A+G | 70 | NCC | (breakable grab)
+B6B 1A+G | 77 | NCC | (breakable grab)
+
+#bK
+bK | 27 | NC
+bK 2A+G | 66 | NC | (breakable grab)
+bK 1A+G| 67 | NC | (breakable grab)
+
+#bKK
+bKK 1A+G | 75 | NCC | (breakable grab)
+bKK 2A+G | 67 | NCC | (breakable grab)
+
+#BB6
+BB6 22K 22B | 60 | NCC
+BB6 22K 11BK | 58 | NCC
+// More to come
+
+#6B
+6B 22K 22B | 72 | NCC
+6B 22K 11BK | 68 | NCC
+// More to come
+
+#3B
+3B 66B | 56 | NC
+3B 4A+G | 54 | NC | (ringout behind)
+3B A+G | 54 | NC | (ringout front)
+
+#3[B]
+3[B] 28A+G | 97 | NC | (ringout front)
+
+#4[B]
+4[B]B | 52 | NC
+
+#WRB
+WRB 2B+K4A+G | 79 | NCC
+
+#WR[B]
+WRB 2B+K4A+G | 74 | NC
+
+#[K]
+[K] 3A+G | 86 | NC
+[K] 4B | 90 | NC
+
+#44K
+44K 22B | 59 | NCC
+// More to come
+
+#1K
+1KA | 62 | NCC
+
+#4K
+4KA | 49 | NCC
+
+#4K[A]
+4K[A] 44B | 64 | NCC
+
+#WRK[A]
+4K[A] 44B | 63 | NCC
